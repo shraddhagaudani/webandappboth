@@ -16,7 +16,6 @@ class PartiesPageTextformfield extends StatelessWidget {
 
     return Expanded(
       child: CustomTextFormField(
-
         hintText: "Search",
         controller: partyController.searchController,
         onChanged: (val) {

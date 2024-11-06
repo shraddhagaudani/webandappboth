@@ -38,7 +38,7 @@ class PartiesPageContainer extends StatelessWidget {
                       text: "All Parties",
                       color: AppColors.white,
                       fontSize: 13,
-                      // fontWeight: fontWeightbold,
+                      fontWeight: fontWeightbold,
                     ),
                   ],
                 ),
